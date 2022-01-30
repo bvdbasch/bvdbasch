@@ -5,38 +5,95 @@
 I'm a chemist turned devop and I enjoy creating software for both the web and the desktop. Most of my work is released under [the smile license 🙂](#). Curious about what it is that I do? Scroll down to find out more, or check out some business related things about me on [LinkedIN][1].
 
 ## Here's me at a glance
+</div>
+<table align="left">
+<thead align="left">
+<tr>
+<th><h3>🧠 Personality</h3></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<ul>
+<li type="none"><img width="400"></img></li>
+<li type="none">🙌🏻 Friendly</li>
+<li type="none">👂 Good listener</li>
+<li type="none">📝 Always open to feedback</li>
+<li type="none">🎯 Solution driven</li>
+<li type="none">💪🏻 Determined</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 
-### 🧠 Personality
+<table align="left">
+<thead align="left">
+<tr>
+<th><h3>🧡 Loves</h3></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<ul>
+<li type="none"><img width="400"></img></li>
+<li type="none">🚵‍♂️ Mountain biking</li>
+<li type="none">🎸 Playing the bass</li>
+<li type="none">⌨️ Mechanical keyboards</li>
+<li type="none">🍂 Long walks while enjoying nature</li>
+<li type="none">👾 Retro gaming</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 
-+ 🙌🏻 Friendly
-+ 👂 Good listener
-+ 📝 Always open to feedback
-+ 🎯 Solution driven
-+ 💪🏻 Determined
+<table align="left">
+<thead align="left">
+<tr>
+<th><h3>📚 Education</h3></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<ul>
+<li type="none"><img width="400"></img></li>
+<li type="none">🎒 Hoger Algemeen Voortgezet Onderwijs (HAVO)</li>
+<li type="none">🎓 HBO Chemie (BSc)</li>
+<li type="none">🧑‍🔬 Various laboratory related courses</li>
+<li type="none">🖥️ Various IT related courses</li>
+<li type="none">📺 And of course the university of YouTube baby!</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 
-### 🧡 Loves
-
-+ 🚵‍♂️ Mountain biking
-+ 🎸 Playing the bass
-+ ⌨️ Mechanical keyboards (customizing, collecting, restoring)
-+ 🍂 Long walks while enjoying nature
-+ 👾 Retro gaming
-
-### 📚 Education
-
-+ 🎒 Hoger Algemeen Voortgezet Onderwijs (HAVO)
-+ 🎓 HBO Chemie (BSc)
-+ 🧑‍🔬 Various laboratory related courses
-+ 🖥️ Various IT related courses
-+ 📺 And of course the university of YouTube baby!
-
-### Expertise
-
-+ 🧪 Lab automation
-+ 📊 LIMS systems ([StarLIMS](https://www.starlims.com), [Sample Manager LIMS](https://www.thermofisher.com/order/catalog/product/INF-11000))
-+ 🧑‍🎨 Application design
-+ 🤔 User Requirement Specifications
-+ 📑 Report development
+<table align="left">
+<thead align="left">
+<tr>
+<th><h3>🏆 Expertise</h3></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<ul>
+<li type="none"><img width="400"></img></li>
+<li type="none">🧪 Lab automation</li>
+<li type="none">📊 LIMS systems (<a href="https://www.starlims.com" target ="_blank">StarLIMS</a>, <a href="https://www.thermofisher.com/order/catalog/product/INF-11000" target ="_blank">Sample Manager LIMS)</a></li>
+<li type="none">🧑‍🎨 Application design</li>
+<li type="none">🤔 User Requirement Specifications</li>
+<li type="none">📑 Report development</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<img width="400"></img>
 
 ## Key endorsements
 
