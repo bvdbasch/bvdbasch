@@ -107,6 +107,16 @@ I'm a chemist turned devop and I enjoy creating software for both the web and th
 
 ## Connect with me on the following platforms
 
+<p align="left">
+<a href="https://nl.linkedin.com/in/bvdbasch" target="_blank"><img align="center" src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/E046.svg" alt="An emoji of the LinkedIN logo serving as an icon for the social network LinkedIN. The rendered emoji is from the OpenMoji emoji set." title="Emoji designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0" height="60"/></a>
+<a href="https://github.com/bvdbasch" target="_blank"><img align="center" src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/E045.svg" alt="An emoji of the GitHub logo serving as an icon for the git repository hosting site GitHub. The rendered emoji is from the OpenMoji emoji set." title="Emoji designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0" height="60"/></a>
+<a href="https://twitter.com/DerBonster" target="_blank"><img align="center" src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/E040.svg" alt="An emoji of the Twitter logo serving as an icon for the social network Twitter. The rendered emoji is from the OpenMoji emoji set." title="Emoji designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0" height="60"/></a>
+<a href="https://mastodon.technology/@bvdbasch" target="_blank"><img align="center" src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F418.svg" alt="An emoji of an elephant serving as an icon for the federated network Mastodon. The rendered emoji is from the OpenMoji emoji set." title="Emoji designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0" height="60"/></a>
+<a href="https://pixelfed.social/bvdbasch" target="_blank"><img align="center" src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F4F8.svg" alt="An emoji of a camera with flash serving as an icon for the federated image sharing network Pixelfed. The rendered emoji is from the OpenMoji emoji set." title="Emoji designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0" height="60"/></a>
+<a href="https://bvdbasch.tumblr.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/E381.svg" alt="An emoji of the web syndication protocol serving as an icon for the social blogging network Tumblr. The rendered emoji is from the OpenMoji emoji set." title="Emoji designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0" height="60"/></a>
+<a href="https://www.youtube.com/user/strifetalk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/E044.svg" alt="An emoji of the YouTube logo serving as an icon for the video sharing site YouTube. The rendered emoji is from the OpenMoji emoji set." title="Emoji designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0" height="60"/></a>
+</p>
+
 [LinkedIN][1] - [GitHub][2] - [Twitter][3] - [Mastodon][7] - [Pixelfed][6] - [Tumblr][4] - [YouTube][5]
 
 📩 *Or just drop me a line at git@vanderbasch.com and we can talk tech!* 📨
