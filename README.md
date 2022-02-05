@@ -5,7 +5,7 @@
 I'm a chemist turned devop and I enjoy creating software for both the web and the desktop. Most of my work is released under [the smile license 🙂](#). Curious about what it is that I do? Scroll down to find out more, or check out some business related things about me on [LinkedIN][1].
 
 ## Here's me at a glance
-</div>
+
 <table align="left">
 <thead align="left">
 <tr>
@@ -16,7 +16,7 @@ I'm a chemist turned devop and I enjoy creating software for both the web and th
 <tr>
 <td>
 <ul>
-<li type="none"><img width="350"></img></li>
+<li type="none"><img width="350"></li>
 <li type="none">🙌🏻 Friendly</li>
 <li type="none">👂 Good listener</li>
 <li type="none">📝 Always open to feedback</li>
@@ -38,7 +38,7 @@ I'm a chemist turned devop and I enjoy creating software for both the web and th
 <tr>
 <td>
 <ul>
-<li type="none"><img width="350"></img></li>
+<li type="none"><img width="350"></li>
 <li type="none">🚵‍♂️ Mountain biking</li>
 <li type="none">🎸 Playing the bass</li>
 <li type="none">⌨️ Mechanical keyboards</li>
@@ -60,10 +60,10 @@ I'm a chemist turned devop and I enjoy creating software for both the web and th
 <tr>
 <td>
 <ul>
-<li type="none"><img width="350"></img></li>
+<li type="none"><img width="350"></li>
 <li type="none">🎒 Hoger Algemeen Voortgezet Onderwijs</li>
 <li type="none">🎓 HBO Chemie (BSc)</li>
-<li type="none">🧑‍🔬 Various laboratory related courses</li>
+<li type="none">👨‍🔬 Various laboratory related courses</li>
 <li type="none">🖥️ Various IT related courses</li>
 <li type="none">📺 And of course the university of YouTube baby!</li>
 </ul>
@@ -82,10 +82,10 @@ I'm a chemist turned devop and I enjoy creating software for both the web and th
 <tr>
 <td>
 <ul>
-<li type="none"><img width="350"></img></li>
+<li type="none"><img width="350"></li>
 <li type="none">🧪 Lab automation</li>
 <li type="none">📊 LIMS systems (<a href="https://www.starlims.com" target ="_blank">StarLIMS</a>, <a href="https://www.thermofisher.com/order/catalog/product/INF-11000" target ="_blank">SampleManager</a>)</li>
-<li type="none">🧑‍🎨 Application design</li>
+<li type="none">👨‍🎨 Application design</li>
 <li type="none">🤔 User Requirement Specifications</li>
 <li type="none">📑 Report development</li>
 </ul>
@@ -93,7 +93,7 @@ I'm a chemist turned devop and I enjoy creating software for both the web and th
 </tr>
 </tbody>
 </table>
-<img width="700"></img>
+<img width="700">
 
 ## Key endorsements
 
@@ -121,7 +121,7 @@ I'm a chemist turned devop and I enjoy creating software for both the web and th
 
 📩 *Or just drop me a line at git@vanderbasch.com and we can talk tech!* 📨
 
-[1]: https://nl.linkedin.com/in/bvdbasch
+[1]: https://www.linkedin.com/in/bvdbasch
 [2]: https://github.com/bvdbasch
 [3]: https://twitter.com/DerBonster
 [4]: https://bvdbasch.tumblr.com
