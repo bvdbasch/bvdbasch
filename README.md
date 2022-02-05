@@ -108,9 +108,52 @@ I'm a chemist turned devop and I enjoy creating software for both the web and th
 ## My Work in Focus
 
 <details open>
+<summary><strong>VGL Syntax highlighters</strong></summary>
+
+<br><img align="right" src="https://raw.githubusercontent.com/bvdbasch/bvdbasch/master/vgl_syntax_thumb.png" alt="A thumbnail of sublime text showing some VGL Code" title="Dark mode is available too!" height="180"/>The first programming language I came into contact with as a professional was VGL. At the time, there weren't many tools available and the only thing that was even capable of syntax highlighting was a **proprietary** text editor costing of 15 dollars. To make matters worse, the only thing that editor did was highlight certain keywords in blue. Not really syntax highlighting by today's standards. Even for all those years ago...
+
+So, I did what any annoyed programmer would do: *I created my own syntax highlighter!* I initially created a syntax highlighter for [Notepad++](https://notepad-plus-plus.org/) and wrote a short PDF manual explaining its usage and limitations. After completing the PDF I then shared the syntax highlighter with the VGL community. This was met with great positivity and several developers as well as companies started using the highlighter.
+
+As I really wanted to push myself and become a better developer I switched from Notepad++ to Sublime Text (that's what the cool kids were using those days). Sublime Text was a good fit because I wanted to learn more about IDE like tools and *language aware* syntax highlighting. Needless to say, as my time spent in Sublime Text grew, so did my need for a Sublime Text VGL syntax highlighter. I did a bit of research and then ported the Notepad++ version to Sublime Text and published it on GitHub where it is still available for download today.
+
+#### Learning focus
+<img align="center" src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F3F7.svg" alt="An emoji of a label serving as a tagging icon. The rendered emoji is from the OpenMoji emoji set." title="Emoji designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0" height="20"> <em>Language definitions, Programming constructs, IDE's, Snippets, Scoping, XML, RegEx</em>
+
+#### Download on GitHub
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bvdbasch&repo=sublime-vgl-syntax&theme=noctis_minimus)](https://github.com/bvdbasch/strifecake)
+</details>
+
+<details>
+<summary><strong>Deze Gasten: a Dutch gaming collective</strong></summary>
+
+<br><img align="right" src="https://raw.githubusercontent.com/bvdbasch/bvdbasch/master/dg_thumb.png" alt="A thumbnail of a the Deze Gasten website running the customized solid state theme" title="Solid State Theme designed by HTML5UP" height="180"/>[Deze Gasten](https://dezegasten.nl) is a Dutch gaming collective by a group of friends. Its an ongoing journey in figuring out social media, networking, and content distribution.
+
+Being the *hipster nerd* of our little group I'm often tasked with solving the technological challenges we are facing; Such as getting a snazzy website up and running, automating notifications for new video uploads, or setting up event hooks for live streaming events. 
+
+Our website is powered by [GRAV CMS](https://getgrav.org), enabling even novices to update and maintain the website. With grav there is no messy editor to deal with and no database is required. The system is *markdown driven* flat file CMS, so its just a matter of typing up content in notepad and uploading it via SFTP. A simple content snippet is shown below.
+
+```yaml
+gauntlet:
+    image: gauntlet.jpg
+    title: 'Gauntlet: Slayer Edition'
+    body: 'Ja man, we hebben gauntlet gespeeld. Je weet wel, die game die ooit op de NES was. Was leuk enzo. Bonno kwam nog onder een steen. Was even een dingetje...'
+    button_url: 'https://www.youtube.com/watch?v=Kr953-fmJ3M&list=PLqDmcdTFyTgTu4TO_f-R1qVaaZnonfULR'
+    button_caption: 'Gauntlet YouTube playlist'
+```
+
+A (port of the solid-state template)[https://github.com/bvdbasch/solid-state] by [HTML5 UP](https://html5up.net/) was used as a starting point for the site. Further customizations have been added to the theme to strengthen SEO capabilities and enable more configuration options such as *badges for badges sake...*. The theme including the customizations is available for download on GitHub.
+
+#### Learning focus
+<img align="center" src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F3F7.svg" alt="An emoji of a label serving as a tagging icon. The rendered emoji is from the OpenMoji emoji set." title="Emoji designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0" height="20"> <em> Social media, Encoding, Live streaming, Content distribution, Grav CMS, TWIG templating, YAML, Discord Bots, Audio processing, SEO, Webhooks</em>
+
+#### Download on GitHub
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bvdbasch&repo=solid-state&theme=noctis_minimus)](https://github.com/bvdbasch/strifecake)
+</details>
+
+<details>
 <summary><strong>Strifecake: a bloggy Anchor CMS site</strong></summary>
 
-<br><img align="right" src="https://raw.githubusercontent.com/bvdbasch/bvdbasch/master/strifecake_thumb.png" alt="A thumbnail of a website running the Strifecake theme" title="All drawings are by the wonderful Meloncollie" height="180"/> Strifecake is the result of a week long pair programming session, performed over the internet. The foundation for the site is [Anchor CMS](https://github.com/anchorcms/anchor-cms) a clean, minimalist and markdown driven content management system. However, due to limitations in Anchor CMS at the time, we had to program some of our own PHP functions. These mainly deal with parsing article details from specific categories.
+<br><img align="right" src="https://raw.githubusercontent.com/bvdbasch/bvdbasch/master/strifecake_thumb.png" alt="A thumbnail of a website running the Strifecake theme" title="All drawings are by the wonderful Meloncollie" height="180"/>Strifecake is the result of a week long pair programming session, performed over the internet. The foundation for the site is [Anchor CMS](https://github.com/anchorcms/anchor-cms) a clean, minimalist and markdown driven content management system. However, due to limitations in Anchor CMS at the time, we had to program some of our own PHP functions. These mainly deal with parsing article details from specific categories.
 
 To allow a certain extent of modularity the theme was built with a _block based_ approach, where the display functions where put in partials as much as possible. This approach enables content to be shown with simple php include statements as demonstrated below.
 
