@@ -105,6 +105,26 @@ I'm a chemist turned devop and I enjoy creating software for both the web and th
 | [Quality Assurance (2)][1] | [Database Administration (2)][1] | [Data Management (3)][1] |
 | [Laboratory Informatics (2)][1] | [System Administration (3)][1] | [Laboratory Instrument Interfacing (2)][1] |
 
+## My Work in Focus
+
+<details open>
+<summary><strong>Strifecake: a bloggy Anchor CMS site</strong></summary>
+
+<br><img align="right" src="https://raw.githubusercontent.com/bvdbasch/bvdbasch/master/strifecake_thumb.png" alt="A thumbnail of a website running the Strifecake theme" title="All drawings are by the wonderful Meloncollie" height="180"/> Strifecake is the result of a week long pair programming session, performed over the internet. The foundation for the site is [Anchor CMS](https://github.com/anchorcms/anchor-cms) a clean, minimalist and markdown driven content management system. However, due to limitations in Anchor CMS at the time, we had to program some of our own PHP functions. These mainly deal with parsing article details from specific categories.
+
+To allow a certain extent of modularity the theme was built with a _block based_ approach, where the display functions where put in partials as much as possible. This approach enables content to be shown with simple php include statements as demonstrated below.
+
+```php
+include(theme_path()."Partials/FrontPage/FrontpageCategoryBlockHTML.php");
+```
+
+#### Learning focus
+<img align="center" src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F3F7.svg" alt="An emoji of a label serving as a tagging icon. The rendered emoji is from the OpenMoji emoji set." title="Emoji designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0" height="20"> <em>Collaboration, GIT, Separation of concerns, Modularity, CSS, Typography</em>
+
+#### Download on GitHub
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bvdbasch&repo=strifecake&theme=noctis_minimus)](https://github.com/bvdbasch/strifecake)
+</details>
+
 ## Connect with me on the following platforms
 
 <p align="left">
