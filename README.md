@@ -1,6 +1,6 @@
 # Hi, I'm Bonno!
 ### And I make *cool stuff* from code
-I'm a chemist turned devop and I enjoy creating software for both the web and the desktop. I aim to release most of my work under the  of my work is released under [the smile license 🙂](#). Curious about what it is that I do? Scroll down to find out more, or check out some business related things about me on [LinkedIN][1].
+I'm a chemist turned devop and I enjoy creating software for both the web and the desktop. I aim to release most of my work under the [the smile license 🙂](https://github.com/bvdbasch/Playground/discussions/6). Curious about what it is that I do? Scroll down to find out more, or check out some business related things about me on [LinkedIN][1].
 
 ## Here's me at a glance
 <table align="left">
