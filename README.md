@@ -1,15 +1,12 @@
 # Hi, I'm Bonno!
-
 ### And I make *cool stuff* from code
-
-I'm a chemist turned devop and I enjoy creating software for both the web and the desktop. Most of my work is released under [the smile license 🙂](#). Curious about what it is that I do? Scroll down to find out more, or check out some business related things about me on [LinkedIN][1].
+I'm a chemist turned devop and I enjoy creating software for both the web and the desktop. I aim to release most of my work under the  of my work is released under [the smile license 🙂](#). Curious about what it is that I do? Scroll down to find out more, or check out some business related things about me on [LinkedIN][1].
 
 ## Here's me at a glance
-
 <table align="left">
 <thead align="left">
 <tr>
-<th><h3>🧠 Personality</h3></th>
+<th><h3>🧠 Personality <img width="150"></h3></th>
 </tr>
 </thead>
 <tbody>
@@ -31,7 +28,7 @@ I'm a chemist turned devop and I enjoy creating software for both the web and th
 <table align="left">
 <thead align="left">
 <tr>
-<th><h3>🧡 Loves</h3></th>
+<th><h3>🧡 Loves <img width="150"></h3></th>
 </tr>
 </thead>
 <tbody>
@@ -53,7 +50,7 @@ I'm a chemist turned devop and I enjoy creating software for both the web and th
 <table align="left">
 <thead align="left">
 <tr>
-<th><h3>📚 Education</h3></th>
+<th><h3>📚 Education <img width="150"></h3></th>
 </tr>
 </thead>
 <tbody>
@@ -75,7 +72,7 @@ I'm a chemist turned devop and I enjoy creating software for both the web and th
 <table align="left">
 <thead align="left">
 <tr>
-<th><h3>🏆 Expertise</h3></th>
+<th><h3>🏆 Expertise <img width="150"></h3></th>
 </tr>
 </thead>
 <tbody>
@@ -93,10 +90,10 @@ I'm a chemist turned devop and I enjoy creating software for both the web and th
 </tr>
 </tbody>
 </table>
-<img width="700">
+
+<img width="900">
 
 ## Key endorsements
-
 | Industry Knowledge | Tools & Technologies | Other Skills |
 | :----------------: | :------------------: | :----------: |
 | [Analytical Chemistry (7)][1] | [SQL (5)][1] | [Laboratory (7)][1] |
@@ -106,7 +103,6 @@ I'm a chemist turned devop and I enjoy creating software for both the web and th
 | [Laboratory Informatics (2)][1] | [System Administration (3)][1] | [Laboratory Instrument Interfacing (2)][1] |
 
 ## My Work in Focus
-
 <details open>
 <summary><strong>VGL Syntax highlighters</strong></summary>
 
@@ -128,9 +124,9 @@ As I really wanted to push myself and become a better developer I switched from 
 
 <br><img align="right" src="https://raw.githubusercontent.com/bvdbasch/bvdbasch/master/dg_thumb.png" alt="A thumbnail of a the Deze Gasten website running the customized solid state theme" title="Solid State Theme designed by HTML5UP" height="180"/>[Deze Gasten](https://dezegasten.nl) is a Dutch gaming collective by a group of friends. Its an ongoing journey in figuring out social media, networking, and content distribution.
 
-Being the *hipster nerd* of our little group I'm often tasked with solving the technological challenges we are facing; Such as getting a snazzy website up and running, automating notifications for new video uploads, or setting up event hooks for live streaming events. 
+Being the *hipster nerd* of our little group I'm often tasked with solving the technological challenges we are facing. Challenges such as getting a snazzy website up and running, automating notifications for new video uploads, and setting up webhooks for live streaming events. 
 
-Our website is powered by [GRAV CMS](https://getgrav.org), enabling even novices to update and maintain the website. With grav there is no messy editor to deal with and no database is required. The system is *markdown driven* flat file CMS, so its just a matter of typing up content in notepad and uploading it via SFTP. A simple content snippet is shown below.
+Our website is powered by [GRAV CMS](https://getgrav.org), enabling even novices to update and maintain the website. With grav there is no messy editor to deal with and no database is required. The system is a *markdown driven* flat file CMS, so its just a matter of typing up content in notepad and uploading it via SFTP. A simple content snippet is shown below.
 
 ```yaml
 gauntlet:
@@ -169,7 +165,6 @@ include(theme_path()."Partials/FrontPage/FrontpageCategoryBlockHTML.php");
 </details>
 
 ## Connect with me on the following platforms
-
 <p align="left">
 <a href="https://nl.linkedin.com/in/bvdbasch" target="_blank"><img align="center" src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/E046.svg" alt="An emoji of the LinkedIN logo serving as an icon for the social network LinkedIN. The rendered emoji is from the OpenMoji emoji set." title="Emoji designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0" height="60"/></a>
 <a href="https://github.com/bvdbasch" target="_blank"><img align="center" src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/E045.svg" alt="An emoji of the GitHub logo serving as an icon for the git repository hosting site GitHub. The rendered emoji is from the OpenMoji emoji set." title="Emoji designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0" height="60"/></a>
